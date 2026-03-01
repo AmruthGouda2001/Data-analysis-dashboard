@@ -70,3 +70,8 @@ ________________________________________
 •	Dashboard Design & Visualization
 •	Business Analysis & Insight Generation
 
+**Dashboard**
+
+<img width="1920" height="1080" alt="Region   Product insights" src="https://github.com/user-attachments/assets/6e4d9cee-a897-451d-8de3-982fa1a455a3" />
+
+
