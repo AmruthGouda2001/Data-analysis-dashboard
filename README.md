@@ -1,2 +1,7 @@
-# Data-analysis-dashboard
-Developed an interactive Sales and Region Wise Dashboard using Power BI to analyze business performance across different regions. The dashboard provides insights into sales trends, regional contribution, product performance, and key KPIs to support data-driven decision-making.
+The main objective of this project is to:
+Monitor overall sales performance
+Compare region-wise revenue and growth
+Identify top-performing and underperforming regions
+Track KPIs such as Total Sales, Profit, Quantity Sold, and Growth %
+Enable management to make strategic business decisions
+
